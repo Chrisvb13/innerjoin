@@ -1,0 +1,4 @@
+@EndUserText.label: 'SERVICE DEFINITION INEER JOIN CVB'
+define service ZSD_INNERJOIN_CVB {
+  expose ZCDS_DD_ZINNERJOIN_CVB;
+}
